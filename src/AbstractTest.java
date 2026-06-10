@@ -8,7 +8,7 @@ public class AbstractTest {
          * Demonstrates Runtime Polymorphism
          */
         Car car = new ToyotaPremio(
-                "White",
+                "red",
                 "Premio G Superior",
                 "Japan",
                 2023,
